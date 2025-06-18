@@ -1,3 +1,7 @@
+[![Made with](https://img.shields.io/badge/arduino-00878F.svg?style=for-the-badge&logo=arduino)](https://www.arduino.cc)
+[![Made with](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![Made with](https://img.shields.io/badge/FreeCad-418FDE.svg?style=for-the-badge&logo=freecad)](https://www.freecad.org/)
+
 # SpiritPod
 
 ## What is a SpritPod ?
