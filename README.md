@@ -14,3 +14,6 @@ This project use the Arduino framework.
 2. Push the code into the microcontroller
 3. Print the case (optional)
 4. Enjoy ! 👻😉
+
+## Real SpiritPod
+![real](src/images/original_spiritpod.jpg)
