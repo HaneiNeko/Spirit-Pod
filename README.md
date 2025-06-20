@@ -4,6 +4,8 @@
 
 # SpiritPod
 
+![logo](src/images/Logo.png)
+
 ## What is a SpritPod ?
 The SpiritPod is a device used by ghost hunters to detect ghosts, spirits, and demons. 😈👻
 
