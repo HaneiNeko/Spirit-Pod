@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "ESP23-WROOM-32")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-WROOM-32/ESP23-WROOM-32.pretty")(options "")(descr ""))
+  (lib (name "CEP-1106")(type "KiCad")(uri "${KIPRJMOD}/libs/CEP-1106/CEP-1106.pretty")(options "")(descr ""))
+  (lib (name "BHSD-2032-SM")(type "KiCad")(uri "${KIPRJMOD}/libs/BHSD-2032-SM/BHSD-2032-SM.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/libs/Logo/Logo.pretty")(options "")(descr ""))
+  (lib (name "STS121RA04")(type "KiCad")(uri "${KIPRJMOD}/libs/STS121RA04/STS121RA04.pretty")(options "")(descr ""))
+)
