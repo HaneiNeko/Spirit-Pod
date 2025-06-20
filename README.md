@@ -15,6 +15,9 @@ It's like an EMF detector (https://github.com/HaneiNeko/EMF-Detector 🙃), the 
 ## This project
 This project use the Arduino framework.
 
+## Schematics
+![schematics](src/images/schematics_image.png)
+
 ## Usage
 1. Use the schematic for create the PCB
 2. Push the code into the microcontroller
