@@ -26,3 +26,7 @@ This project use the Arduino framework.
 
 ## Real SpiritPod
 ![real](src/images/original_spiritpod.jpg)
+
+## Other similar project 😉
+This amazing project from 
+Mancave Effects : https://www.youtube.com/watch?v=FR6dkNfYyT0
